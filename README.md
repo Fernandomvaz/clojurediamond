@@ -1,11 +1,11 @@
 # diamante
 
 This program should print a diamond-shaped diagram with the input given, for example: if C is the input, the program must print: 
-  A  
- B B  
-C   C  
- B B   
-  A  
+ -A  
+-B-B  
+C---C  
+-B-B   
+--A  
 
 
 
@@ -29,21 +29,21 @@ FIXME: listing of options this app accepts.
 
 B Input:
 
- A  
-B B  
- A  
+-A  
+B-B  
+-A  
 _______________
 
 E Input:
-    A   
-   B B  
-  C   C  
- D     D  
-E       E  
- D     D  
-  C   C  
-   B B  
-    A  
+----A   
+---B-B  
+--C---C  
+-D-----D  
+E-------E  
+-D-----D  
+--C---C  
+---B-B  
+----A  
 
 _______________
 
