@@ -1,8 +1,8 @@
 # diamante
 
 This program should print a diamond-shaped diagram with the input given, for example: if C is the input, the program must print:  
- 
- -A  
+
+--A  
 -B-B  
 C---C  
 -B-B   
@@ -53,13 +53,9 @@ _______________
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
-Feel free to use this whenever youw ant
+Feel free to use this whenever you want
 
 
 **WORK IN PROGRESS**
