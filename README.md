@@ -1,6 +1,13 @@
 # diamante
 
-FIXME: description
+This program should print a diamond-shaped diagram with the input given, for example: if C is the input, the program must print: 
+  A 
+ B B 
+C   C 
+ B B 
+  A
+
+
 
 ## Installation
 
@@ -18,7 +25,27 @@ FIXME: listing of options this app accepts.
 
 ## Examples
 
-...
+
+
+B Input:
+
+ A 
+B B 
+ A 
+_______________
+
+E Input:
+    A 
+   B B 
+  C   C 
+ D     D 
+E       E
+ D     D
+  C   C
+   B B
+    A 
+
+_______________
 
 ### Bugs
 
@@ -30,7 +57,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2016 FIXME
+Feel free to use this whenever youw ant
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+
+**WORK IN PROGRESS**
