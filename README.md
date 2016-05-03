@@ -1,6 +1,7 @@
 # diamante
 
-This program should print a diamond-shaped diagram with the input given, for example: if C is the input, the program must print: 
+This program should print a diamond-shaped diagram with the input given, for example: if C is the input, the program must print:  
+ 
  -A  
 -B-B  
 C---C  
@@ -34,7 +35,8 @@ B-B
 -A  
 _______________
 
-E Input:
+E Input:  
+
 ----A   
 ---B-B  
 --C---C  
